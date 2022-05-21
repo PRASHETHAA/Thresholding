@@ -74,12 +74,21 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![1](https://user-images.githubusercontent.com/75235090/169492992-d2d0851a-23d0-478f-9465-b3ef6f53cdac.png)
+
+![n1](https://user-images.githubusercontent.com/75234942/169638660-10b961d3-5eae-434e-9825-218cf77ca772.png)
+
 
 
 ### Global Thresholding
-![image](https://user-images.githubusercontent.com/75235090/169493477-008bddd8-9e01-45d4-ba80-a01254f21288.png)
-![image](https://user-images.githubusercontent.com/75235090/169493683-fe1f49a8-7748-40ac-a3f8-2c103cf91e1c.png)
+![n2](https://user-images.githubusercontent.com/75234942/169638691-4622d148-9877-4755-b577-4ad805f3ab9b.png)
+
+![n3](https://user-images.githubusercontent.com/75234942/169638734-ffe09e7b-d0f5-4e69-b613-625f1e91bb35.png)
+
+![n4](https://user-images.githubusercontent.com/75234942/169638789-a27ebc60-da68-4287-8694-bbc87b3908d2.png)
+
+![n5](https://user-images.githubusercontent.com/75234942/169638829-db750d70-fd69-4a29-9037-70edc520cb75.png)
+
+![n6](https://user-images.githubusercontent.com/75234942/169638881-1577c934-c699-4361-8bd5-8c8abd27cbe9.png)
 
 
 ### Adaptive Thresholding
