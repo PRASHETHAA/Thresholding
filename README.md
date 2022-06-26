@@ -1,4 +1,6 @@
-# Thresholding
+## EX NO:09
+## DATE:20.5.22
+# <p align="center">Thresholding
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -29,6 +31,9 @@ Display the results.
 ## Program
 
 ```python
+       Developed by:Prashethaa R
+       Register No :212220230036
+       
 # Load the necessary packages
 import cv2
 import numpy as np
